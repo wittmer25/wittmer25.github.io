@@ -1,0 +1,111 @@
+body{
+background-color: #f09359;
+width: 1366px;
+height: 768px;
+}
+.navbar{ 
+    text-align: right;
+}
+.logo{
+    margin: 0px;
+}
+h1{
+    margin: 0px;
+}
+#gif{
+    animation-iteration-count:infinite;
+}
+table{
+    background-color: tan;
+    color:black;
+    width: 360px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+th{
+    padding-bottom: 20px;
+}
+h5{
+    text-align:center;
+    font-weight: bold;
+    font-size: 20px;
+}
+input{
+    margin-left: 10px;
+}
+button{
+    margin-right: 10px;
+   margin-top: 20px;
+}
+#subscribe{
+    padding-bottom: 5px;
+    margin: 0px
+}
+#ema{
+    padding-bottom: 5px;
+    margin: 0px;
+}
+.box{
+    margin-top: 0px;
+    
+}
+p{
+    color: black;
+    padding: 0px;
+    margin: 0px;
+}
+.contact{
+    text-align: right;
+    margin-right: 7px;
+}
+h2{
+    color: black;
+    font-size: 30px;
+    padding: 0px;
+    margin: 0px;
+}
+#click{
+    color: black;
+}
+#back{
+    color: black;
+}
+label.error {
+    color: red;
+    padding:0px;
+    margin: 0px;
+}
+h3{
+    color: black;
+    font-size: 18px;
+    font: arial;
+}
+.about{
+    margin-right: 30px;
+    align-content: center;
+}
+.price{
+    padding-top: 25px;
+}
+.double{
+    padding-bottom: 23px;
+}
+.dub{
+    margin-left: 10px;
+}
+.menu{
+    padding-bottom: 18px;
+}
+h4 {
+    font-weight: bold;
+    color: black;
+    font-size:25px;
+}
+.sub {
+    border: 0px;
+
+}
+.label{
+    margin: 0px;
+    padding: 0px;
+}
