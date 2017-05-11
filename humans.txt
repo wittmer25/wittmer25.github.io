@@ -3,13 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    <name>Will Wittmer
+    <twitter>@willWittmer
+/* SITE DETAILS */
+  Donut Delights
+  Url:Wittmer25.github.io
+  Launch date:5/9/17
+ Latest Update: 5/13/17
